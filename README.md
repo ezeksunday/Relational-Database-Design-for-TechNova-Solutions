@@ -13,14 +13,24 @@ This project acts as a guide to basic SQL operations. It covers essential databa
 - **Document SQL Practices:** Provide clear, commented SQL code and explanations for each step.
 
 ## Database Schema Design:  
-Conceptual overview of the tables based on the task given:  
+Conceptual overview of the tables and their relationships based on the task given:  
 - **Employees:** Stores details about each employee.
 - **Departments:** Stores details about each department, including its manager.
 - **Projects:** Stores details about each project, including its assigned manager.
 - **TaskAssignments:** Links employees to specific projects for task assignments.
 
+## Relationships:  
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Task:
-TechNova Solutions is a technology consulting firm that manages various projects for clients, has multiple departments, and employs a diverse workforce. You have been tasked with designing a relational database for TechNova Solutions so that they can manage employees, departments, and projects. The goal is to create, modify, and optimise the database structure while ensuring data integrity.
+TechNova Solutions is a technology consulting firm that manages various projects for clients, has multiple departments, and employs a diverse workforce. You have been tasked with designing a relational database for TechNova Solutions so that they can manage employees, departments, and projects. The goal is to create, modify, and optimise the database structure while ensuring data integrity.  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+## Solution:  
+CREATE DATABASE TechnovaDB;  
+USE DATABASE;  -- To select the database.
 
