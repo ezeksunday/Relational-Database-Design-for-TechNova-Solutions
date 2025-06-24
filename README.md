@@ -52,5 +52,5 @@ CREATING TABLES:
     Email VARCHAR(100) NOT NULL UNIQUE,
     HireDate DATE NOT NULL,
     Department VARCHAR(50)
-);
+  );
 
