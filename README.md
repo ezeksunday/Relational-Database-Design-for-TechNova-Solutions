@@ -19,7 +19,7 @@ Conceptual overview of the tables and their relationships based on the task give
 - **Projects:** Stores details about each project, including its assigned manager.
 - **TaskAssignments:** Links employees to specific projects for task assignments.
 
-## Cardinal Relationships:  
+## Cardinality & Relationships:  
 - One **Department** has One **Manager**(who is an employee):-  **1**:**1**
 - One **Project** has one **Manager**(who is an employee):-  **1**:**1**
 - One **Project** can have Many **TaskAssignments**;-  **1**:**M**
@@ -31,14 +31,26 @@ Conceptual overview of the tables and their relationships based on the task give
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Task:
 TechNova Solutions is a technology consulting firm that manages various projects for clients, has multiple departments, and employs a diverse workforce. You have been tasked with designing a relational database for TechNova Solutions so that they can manage employees, departments, and projects. The goal is to create, modify, and optimise the database structure while ensuring data integrity.   
-- ### 1.i. Create a table to store employee details, ensuring each employee has a unique identifier, first and last name, email address, hire date, and optional department information.  
-- ### 1.ii. Design a table to store department details, including a unique identifier and department name. Each department should have a manager, who is one of the employees.  
-- ### 1.iii. Develop a table to manage projects, where each project has a unique identifier, name, start date, and optional end date. Each project should be managed by an employee.
+- 1. Create a table to store employee details, ensuring each employee has a unique identifier, first and last name, email address, hire date, and optional department information.  
+- 2. Design a table to store department details, including a unique identifier and department name. Each department should have a manager, who is one of the employees.  
+- 3. Develop a table to manage projects, where each project has a unique identifier, name, start date, and optional end date. Each project should be managed by an employee.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ## Solution:  
 CREATE DATABASE TechnovaDB;  
-USE DATABASE;  -- To select the database.
+USE DATABASE;  -- To select the database.  
+-------------------------------------------------------------  
+CREATING TABLES:  
+-------------------------------------------------------------  
+- Employees Table:
+  CREATE TABLE Employees (
+    EmployeeID INT PRIMARY KEY AUTO_INCREMENT,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    HireDate DATE NOT NULL,
+    Department VARCHAR(50)
+);
 
