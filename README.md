@@ -42,15 +42,8 @@ TechNova Solutions is a technology consulting firm that manages various projects
 CREATE DATABASE TechnovaDB;  
 USE DATABASE;  -- To select the database.  
 -------------------------------------------------------------  
-CREATING TABLES:  
--------------------------------------------------------------  
-- Employees Table:
-  CREATE TABLE Employees (
-    EmployeeID INT PRIMARY KEY AUTO_INCREMENT,
-    FirstName VARCHAR(50) NOT NULL,
-    LastName VARCHAR(50) NOT NULL,
-    Email VARCHAR(100) NOT NULL UNIQUE,
-    HireDate DATE NOT NULL,
-    Department VARCHAR(50)
-  );
+-------------------------------------------------------------
+## CREATING TABLES:  
+- **1. Employees Table**
+
 
