@@ -1,4 +1,4 @@
-# This Project excersices utilises My SQL to Design and Manage Relational Data for Technova Solutions  
+aq  QD# This Project excersices utilises My SQL to Design and Manage Relational Data for Technova Solutions  
 ## Introduction  
 Welcome to the TechNova Solutions Database Management Project Exercise!   
 This project outlines the design, creation, and improvement of a relational database for TechNova Solutions, a technology consulting firm. The database is built to manage key entities: employees, departments, and projects. It ensures data integrity and makes data retrieval efficient.  
