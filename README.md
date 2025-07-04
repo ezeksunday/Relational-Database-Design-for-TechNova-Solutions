@@ -29,7 +29,7 @@ Conceptual overview of the tables and their relationships based on the task give
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Task 1: Creating Tables:
+### Task 1: Creating Tables:
 TechNova Solutions is a technology consulting firm that manages various projects for clients, has multiple departments, and employs a diverse workforce. You have been tasked with designing a relational database for TechNova Solutions so that they can manage employees, departments, and projects. The goal is to create, modify, and optimise the database structure while ensuring data integrity.   
 - i. Create a table to store employee details, ensuring each employee has a unique identifier, first and last name, email address, hire date, and optional department information.  
 - ii. Design a table to store department details, including a unique identifier and department name. Each department should have a manager, who is one of the employees.  
