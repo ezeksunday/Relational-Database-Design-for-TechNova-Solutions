@@ -47,7 +47,7 @@ USE DATABASE;  -- To select the database.
 - **1. Employees Table**
 <img width="384" alt="Image" src="https://github.com/user-attachments/assets/973db764-0fcd-498e-ae67-43fc10e891f0" />
 **2. **Departments Table**
-<img width="499" alt="Image" src="https://github.com/user-attachments/assets/7c7d6b63-e8a0-4d33-b82d-ebcf53154dec" />
+
 **3. **Projects Table**
 
 
