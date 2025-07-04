@@ -52,6 +52,6 @@ USE DATABASE;  -- To select the database.
 <img width="515" alt="Image" src="https://github.com/user-attachments/assets/a7c6dea9-2da1-452e-8cfa-3af2801799a7" />  
 
 - **3. Projects Table**
-
+<img width="504" alt="Image" src="https://github.com/user-attachments/assets/45a101d2-f4ff-4b64-8c61-59695c63d7b9" />
 
 
