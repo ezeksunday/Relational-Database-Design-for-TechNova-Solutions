@@ -63,17 +63,17 @@ TechNova Solutions is a technology consulting firm that manages various projects
 ## USE DATABASE;  -- To select the database.  
 -------------------------------------------------------------  
 -------------------------------------------------------------
-### CREATING TABLES:  
-- **1. Employees Table**
+### 1. CREATING TABLES:  
+- **I. Employees Table**
 <img width="384" alt="Image" src="https://github.com/user-attachments/assets/973db764-0fcd-498e-ae67-43fc10e891f0" />
 
-- **2. Departments Table**
+- **II. Departments Table**
 
 <img width="515" alt="Image" src="https://github.com/user-attachments/assets/a7c6dea9-2da1-452e-8cfa-3af2801799a7" />  
 
-- **3. Projects Table**
+- **III. Projects Table**
 <img width="504" alt="Image" src="https://github.com/user-attachments/assets/45a101d2-f4ff-4b64-8c61-59695c63d7b9" />
 
-### ALTERING TABLES:
+### 2. ALTERING TABLES:
 
 
