@@ -63,7 +63,7 @@ CREATE DATABASE TechnovaDB;
 USE DATABASE;  -- To select the database.  
 -------------------------------------------------------------  
 -------------------------------------------------------------
-## CREATING TABLES:  
+### CREATING TABLES:  
 - **1. Employees Table**
 <img width="384" alt="Image" src="https://github.com/user-attachments/assets/973db764-0fcd-498e-ae67-43fc10e891f0" />
 
@@ -73,5 +73,7 @@ USE DATABASE;  -- To select the database.
 
 - **3. Projects Table**
 <img width="504" alt="Image" src="https://github.com/user-attachments/assets/45a101d2-f4ff-4b64-8c61-59695c63d7b9" />
+
+### ALTERING TABLES:
 
 
