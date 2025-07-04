@@ -77,7 +77,10 @@ TechNova Solutions is a technology consulting firm that manages various projects
 ### 2. ALTERING TABLES:  
 <img width="914" alt="Image" src="https://github.com/user-attachments/assets/62b0d872-fd05-4ca8-8a4b-b8e4ea0868d5" />  
 
-### DROPPING TABLES:  
-<img width="721" alt="Image" src="https://github.com/user-attachments/assets/ebeaedab-42fc-4eb2-b6a8-83d49dcc1c78" />
+### 3. DROPPING TABLES:  
+<img width="721" alt="Image" src="https://github.com/user-attachments/assets/ebeaedab-42fc-4eb2-b6a8-83d49dcc1c78" />  
+
+### 4. CONSTRAINTS:  
+
 
 
