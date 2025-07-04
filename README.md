@@ -35,13 +35,26 @@ TechNova Solutions is a technology consulting firm that manages various projects
 - ii. Design a table to store department details, including a unique identifier and department name. Each department should have a manager, who is one of the employees.  
 - iii. Develop a table to manage projects, where each project has a unique identifier, name, start date, and optional end date. Each project should be managed by an employee.
 
-## Task 2: Altering Tables:  
+### Task 2: Altering Tables:  
 - i. Add a column to the Employees table to store phone numbers.
 - ii. Make sure that every department has a name by including a NOT NULL constraint on the DepartmentName column.
 - iii. Rename the HireDate column in the Employees table to StartDate.
 - iv. Remove the Department column from the Employees table, as it is redundant.
 
+### Task 3: Dropping Tables:  
+- i. Drop the Departments table entirely from the database.
+- ii. Create a temporary table named TempProjects for testing purposes and then drop it.
+- iii. Write a script to drop the Employees table only if it exists.
 
+### Task 4: Constraints:  
+- i. Make sure each task assignment is linked to a specific employee and project by creating a TaskAssignments table with appropriate primary and foreign keys.
+- ii. Add a unique constraint to the Email column in the Employees table to prevent duplicate email addresses.
+- iii. Make sure that every project must have an end-date by setting a NOT NULL constraint on the EndDate column in the Projects table.
+
+### Task 5: Indexes:  
+- i. Create an index on the Email column in the Employees table to speed up email searches.
+- ii. Create a composite index on the LastName and FirstName columns in the Employees table to improve full name searches.
+- iii. Drop the index on the Email column if it is no longer needed.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
