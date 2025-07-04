@@ -49,4 +49,6 @@ USE DATABASE;  -- To select the database.
 
 - **2. Departments Table**
 
+<img width="515" alt="Image" src="https://github.com/user-attachments/assets/a7c6dea9-2da1-452e-8cfa-3af2801799a7" />
+
 
