@@ -29,11 +29,18 @@ Conceptual overview of the tables and their relationships based on the task give
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Task:
+## Task 1: Creating Tables:
 TechNova Solutions is a technology consulting firm that manages various projects for clients, has multiple departments, and employs a diverse workforce. You have been tasked with designing a relational database for TechNova Solutions so that they can manage employees, departments, and projects. The goal is to create, modify, and optimise the database structure while ensuring data integrity.   
-- 1. Create a table to store employee details, ensuring each employee has a unique identifier, first and last name, email address, hire date, and optional department information.  
-- 2. Design a table to store department details, including a unique identifier and department name. Each department should have a manager, who is one of the employees.  
-- 3. Develop a table to manage projects, where each project has a unique identifier, name, start date, and optional end date. Each project should be managed by an employee.
+- i. Create a table to store employee details, ensuring each employee has a unique identifier, first and last name, email address, hire date, and optional department information.  
+- ii. Design a table to store department details, including a unique identifier and department name. Each department should have a manager, who is one of the employees.  
+- iii. Develop a table to manage projects, where each project has a unique identifier, name, start date, and optional end date. Each project should be managed by an employee.
+
+## Task 2: Altering Tables:  
+- i. Add a column to the Employees table to store phone numbers.
+- ii. Make sure that every department has a name by including a NOT NULL constraint on the DepartmentName column.
+- iii. Rename the HireDate column in the Employees table to StartDate.
+- iv. Remove the Department column from the Employees table, as it is redundant.
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
