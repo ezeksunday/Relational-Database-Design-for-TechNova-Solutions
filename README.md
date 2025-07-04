@@ -46,8 +46,8 @@ USE DATABASE;  -- To select the database.
 ## CREATING TABLES:  
 - **1. Employees Table**
 <img width="384" alt="Image" src="https://github.com/user-attachments/assets/973db764-0fcd-498e-ae67-43fc10e891f0" />
-**2. **Departments Table**
-<img width="515" alt="Image" src="https://github.com/user-attachments/assets/46221c7e-9d9a-4317-98dd-ff2a68c8a004" />
+- **2. **Departments Table**
+- <img width="515" alt="Image" src="https://github.com/user-attachments/assets/46221c7e-9d9a-4317-98dd-ff2a68c8a004" />
 **3. **Projects Table**
 
 
