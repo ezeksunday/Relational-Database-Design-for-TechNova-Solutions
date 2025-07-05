@@ -81,6 +81,9 @@ TechNova Solutions is a technology consulting firm that manages various projects
 <img width="721" alt="Image" src="https://github.com/user-attachments/assets/ebeaedab-42fc-4eb2-b6a8-83d49dcc1c78" />  
 
 ### 4. CONSTRAINTS:  
-<img width="1284" alt="Image" src="https://github.com/user-attachments/assets/38a35b64-5415-477a-88ae-bb17857c298d" />
+<img width="1284" alt="Image" src="https://github.com/user-attachments/assets/38a35b64-5415-477a-88ae-bb17857c298d" />  
+
+### 5. INDEXES:  
+
 
 
